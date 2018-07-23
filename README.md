@@ -1,5 +1,5 @@
 # sophos-login-client
-This Login Client is build to get connected to wifi only in thapar university.
+This Login Client is build to get connected to university wifi(only in thapar university).
 
 
 How to use:
